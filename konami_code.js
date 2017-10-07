@@ -12,8 +12,8 @@ function init() {
         alert('What happens now?');
       }
       index = 0;
-    }else {
-    index = 0
+    } else {
+      index = 0
     }
   })
 }
