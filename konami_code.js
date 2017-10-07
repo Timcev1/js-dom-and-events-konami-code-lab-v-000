@@ -10,8 +10,8 @@ function init() {
       index++;
       if (index === code.length) {
         alert('What happens now?');
+        index = 0;
       }
-      index = 0;
     } else {
       index = 0;
     }
